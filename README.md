@@ -14,9 +14,9 @@ Data Structures & Algorithms course based on Sedgwick's "Algorithms, 4th Edition
 | 1 | Introduction, Algorithm Analysis, Big-O Notation | Done |
 | 2 | Elementary Data Structures (Arrays, Linked Lists, Stacks, Queues) | Done |
 | 3 | Elementary Sorting (Selection, Insertion, Shellsort) | Done |
-| 4 | Mergesort and Quicksort | Planned |
-| 5 | Priority Queues and Heapsort | Planned |
-| 6 | Binary Search Trees | Planned |
+| 4 | Mergesort and Quicksort | Done |
+| 5 | Priority Queues and Heapsort | Done |
+| 6 | Binary Search Trees | Done |
 | 7 | Balanced Search Trees (Red-Black BSTs) | Planned |
 | 8 | Hash Tables | Planned |
 | 9 | Graph Fundamentals and Depth-First Search | Planned |
