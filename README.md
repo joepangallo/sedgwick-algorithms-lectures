@@ -17,9 +17,9 @@ Data Structures & Algorithms course based on Sedgwick's "Algorithms, 4th Edition
 | 4 | Mergesort and Quicksort | Done |
 | 5 | Priority Queues and Heapsort | Done |
 | 6 | Binary Search Trees | Done |
-| 7 | Balanced Search Trees (Red-Black BSTs) | Planned |
-| 8 | Hash Tables | Planned |
-| 9 | Graph Fundamentals and Depth-First Search | Planned |
-| 10 | Breadth-First Search and Graph Applications | Planned |
-| 11 | Minimum Spanning Trees and Shortest Paths | Planned |
-| 12 | Advanced Topics (String Algorithms, Tries, Dynamic Programming) | Planned |
+| 7 | Balanced Search Trees (Red-Black BSTs) | Done |
+| 8 | Hash Tables | Done |
+| 9 | Graph Fundamentals and Depth-First Search | Done |
+| 10 | Breadth-First Search and Graph Applications | Done |
+| 11 | Minimum Spanning Trees and Shortest Paths | Done |
+| 12 | Advanced Topics (String Algorithms, Tries, Dynamic Programming) | Done |
